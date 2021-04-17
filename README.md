@@ -5,11 +5,11 @@
 We will be visualizing ride-sharing data from PyBer by creating charts using Pandas library and Matplotlib. The charts will tell us  differences and trends between the “type” of city, the number of drivers and riders, and the percentage of “total fares”, “riders”, and “drivers” by “type” of city. We would like to help PyBer by giving them the charts to determine affordability for neighborhoods and availability for ride-sharing services.
 
 ## Resources:
-•	 
+•	 city_data.csv
 
-•	 
+•	 ride_data.csv
 
-•	 
+•	 PyBer_ride_data.csv
 
 
 ## Results:
