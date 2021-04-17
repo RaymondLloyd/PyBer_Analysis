@@ -31,8 +31,7 @@ We will be visualizing ride-sharing data from PyBer by creating charts using Pan
 ![Total Rides (PieChart)](https://user-images.githubusercontent.com/79877349/115103219-086dd280-9f05-11eb-8fc9-f9f55eb02265.png)
 
 
-* With this pie chart we can see the percentage of total drivers by city type. Again, the amount of “Urban” drivers is greatly higher than the other 
-two city types. 
+* With this pie chart we can see the percentage of total drivers by city type. Again, the amount of “Urban” drivers is greatly higher than the other two city types. 
 ![Total Drivers (PieChart)](https://user-images.githubusercontent.com/79877349/115103227-17ed1b80-9f05-11eb-8eb5-fb39b1664644.png)
 
 
